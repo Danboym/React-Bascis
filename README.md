@@ -1,7 +1,3 @@
-The provided URL is related to editing the `README.md` file in the `Danboym/React-Bascis` repository on the `main` branch. Since the repository is described as consisting of React questions and answers for completing interactive web development at the University of Rwanda, here's a suggestion for the `README.md` file:
-
----
-
 # React Basics Repository
 
 Welcome to the **React Basics Repository**! This repository contains a collection of React questions and answers aimed at assisting students in completing the **Interactive Web Development** course at the **University of Rwanda**.
@@ -56,7 +52,3 @@ We welcome contributions to make this repository more helpful to students. If yo
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-If you'd like me to adjust this further or include specific sections, let me know!
